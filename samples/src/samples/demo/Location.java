@@ -3,7 +3,7 @@ package samples.demo;
 public class Location
 {
 	private String location;
-	public int x = 10;
+	
 
 	public String getLocation() {
 		return location;
